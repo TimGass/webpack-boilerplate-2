@@ -1,0 +1,7 @@
+@import './header.scss';
+@import '~normalize-scss';
+
+$color: green;
+body {
+  background-color: $color;
+}
